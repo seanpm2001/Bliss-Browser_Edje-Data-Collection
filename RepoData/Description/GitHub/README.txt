@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌳️🌐️#️⃣️ The Bliss Browser Edje Data Collection language support module, allowing Edje Data Collection programs to be written in and ran within the browser.
